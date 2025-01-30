@@ -4,6 +4,6 @@ Um projeto simples que demonstra navegação entre páginas, estilização de de
 
 # Clonando o repositório, passos:
 
-git clone https://github.com/JuliaF23/ProjetoHTML.git
-cd ProjetoHTML
-code .
+git clone https://github.com/JuliaF23/ProjetoHTML.git <br>
+cd ProjetoHTML <br>
+code . <br>
